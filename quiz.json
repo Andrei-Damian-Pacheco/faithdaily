@@ -1,0 +1,344 @@
+{
+  "2026-36": {
+    "week": 36,
+    "year": 2026,
+    "start": "2026-08-30",
+    "end": "2026-09-05",
+    "es": [
+      {
+        "src": "dm",
+        "q": "¿Qué enfermedad le diagnosticaron a Mary Ann Bevan?",
+        "options": [
+          "Diabetes",
+          "Acromegalia",
+          "Tuberculosis",
+          "Anemia"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "dm",
+        "q": "Según Mateo 18:22, ¿cuántas veces dijo Jesús que debemos perdonar?",
+        "options": [
+          "Siete veces",
+          "Setenta veces",
+          "Setenta veces siete",
+          "Setecientas veces"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "dm",
+        "q": "¿Cómo se llamaba a los trabajadores que se expusieron a la radiación para contener el desastre de Chernóbil?",
+        "options": [
+          "Bomberos voluntarios",
+          "Liquidadores",
+          "Ingenieros nucleares",
+          "Inspectores"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "Según el Salmo 24:3-4, ¿quién puede subir al monte de Jehová?",
+        "options": [
+          "El rico y poderoso",
+          "El limpio de manos y puro de corazón",
+          "El sacerdote ungido",
+          "El que ayuna cada semana"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "¿Qué le pide el salmista a Dios en el Salmo 26:11?",
+        "options": [
+          "Riquezas y larga vida",
+          "Que lo redima y tenga misericordia de él",
+          "Venganza contra sus enemigos",
+          "Sabiduría para gobernar"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "Según el Salmo 29:11, ¿qué le dará Jehová a su pueblo?",
+        "options": [
+          "Tierras y ganado",
+          "Poder y paz",
+          "Profetas y reyes",
+          "Oro y plata"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "¿Qué le pidieron Santiago y Juan a Jesús camino a Jerusalén?",
+        "options": [
+          "Ser los primeros discípulos en resucitar",
+          "Sentarse a su derecha y su izquierda en su reino",
+          "Ser librados de la crucifixión",
+          "Predicar en Jerusalén"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "¿Quién le dijo a Jesús \"sálvate a ti mismo y baja de la cruz\"?",
+        "options": [
+          "Solo los soldados romanos",
+          "Solo los líderes religiosos",
+          "Los que pasaban, los líderes religiosos, los soldados y uno de los criminales",
+          "Únicamente Poncio Pilato"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "¿Qué clamó Jesús después de tres horas de oscuridad en la cruz, citando el Salmo 22?",
+        "options": [
+          "\"Consumado es\"",
+          "\"Padre, en tus manos encomiendo mi espíritu\"",
+          "\"Dios mío, Dios mío, ¿por qué me has abandonado?\"",
+          "\"Tengo sed\""
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "¿Quién declaró \"Verdaderamente este era el Hijo de Dios\" al ver morir a Jesús?",
+        "options": [
+          "Un discípulo",
+          "Un fariseo",
+          "Un centurión romano",
+          "Un profeta del Antiguo Testamento"
+        ],
+        "correct": 2
+      }
+    ],
+    "en": [
+      {
+        "src": "dm",
+        "q": "What illness was Mary Ann Bevan diagnosed with?",
+        "options": [
+          "Diabetes",
+          "Acromegaly",
+          "Tuberculosis",
+          "Anemia"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "dm",
+        "q": "According to Matthew 18:22, how many times did Jesus say we should forgive?",
+        "options": [
+          "Seven times",
+          "Seventy times",
+          "Seventy times seven",
+          "Seven hundred times"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "dm",
+        "q": "What were the workers who exposed themselves to radiation to contain the Chernobyl disaster called?",
+        "options": [
+          "Volunteer firefighters",
+          "Liquidators",
+          "Nuclear engineers",
+          "Inspectors"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "According to Psalm 24:3-4, who may climb the hill of the Lord?",
+        "options": [
+          "The rich and powerful",
+          "He that hath clean hands and a pure heart",
+          "The anointed priest",
+          "The one who fasts every week"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "What does the psalmist ask God for in Psalm 26:11?",
+        "options": [
+          "Wealth and long life",
+          "To be redeemed and shown mercy",
+          "Revenge on his enemies",
+          "Wisdom to rule"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "According to Psalm 29:11, what will the Lord give His people?",
+        "options": [
+          "Land and cattle",
+          "Strength and peace",
+          "Prophets and kings",
+          "Gold and silver"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "What did James and John ask Jesus on the way to Jerusalem?",
+        "options": [
+          "To be the first disciples to rise from the dead",
+          "To sit at His right and left hand in His kingdom",
+          "To be spared from crucifixion",
+          "To preach in Jerusalem"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "Who told Jesus to \"save Yourself and come down from the cross\"?",
+        "options": [
+          "Only the Roman soldiers",
+          "Only the religious leaders",
+          "Those passing by, the religious leaders, the soldiers, and one of the criminals",
+          "Only Pontius Pilate"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "What did Jesus cry out after three hours of darkness on the cross, quoting Psalm 22?",
+        "options": [
+          "\"It is finished\"",
+          "\"Father, into Your hands I commit My spirit\"",
+          "\"My God, My God, why have You forsaken Me?\"",
+          "\"I thirst\""
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "Who declared, \"Truly this was the Son of God,\" after watching Jesus die?",
+        "options": [
+          "A disciple",
+          "A Pharisee",
+          "A Roman centurion",
+          "An Old Testament prophet"
+        ],
+        "correct": 2
+      }
+    ],
+    "de": [
+      {
+        "src": "dm",
+        "q": "Welche Krankheit wurde bei Mary Ann Bevan diagnostiziert?",
+        "options": [
+          "Diabetes",
+          "Akromegalie",
+          "Tuberkulose",
+          "Anämie"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "dm",
+        "q": "Wie oft sagte Jesus laut Matthäus 18,22, dass wir vergeben sollen?",
+        "options": [
+          "Siebenmal",
+          "Siebzigmal",
+          "Siebzigmal siebenmal",
+          "Siebenhundertmal"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "dm",
+        "q": "Wie wurden die Arbeiter genannt, die sich der Strahlung aussetzten, um die Katastrophe von Tschernobyl einzudämmen?",
+        "options": [
+          "Freiwillige Feuerwehrleute",
+          "Liquidatoren",
+          "Kerningenieure",
+          "Inspektoren"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "Wer darf laut Psalm 24,3-4 auf den Berg des HERRN steigen?",
+        "options": [
+          "Der Reiche und Mächtige",
+          "Wer unschuldige Hände hat und reines Herzens ist",
+          "Der gesalbte Priester",
+          "Wer jede Woche fastet"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "Worum bittet der Psalmist Gott in Psalm 26,11?",
+        "options": [
+          "Um Reichtum und langes Leben",
+          "Um Erlösung und Gnade",
+          "Um Rache an seinen Feinden",
+          "Um Weisheit zum Regieren"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "rp",
+        "q": "Was wird der HERR laut Psalm 29,11 seinem Volk geben?",
+        "options": [
+          "Land und Vieh",
+          "Kraft und Frieden",
+          "Propheten und Könige",
+          "Gold und Silber"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "Was war laut Paulus der Beweis für seinen authentischen Dienst in Korinth (2. Korinther 3)?",
+        "options": [
+          "Empfehlungsschreiben, die er bei sich trug",
+          "Seine eigene Intelligenz und Anstrengung",
+          "Die verändernde Kraft des Heiligen Geistes im Leben der Korinther",
+          "Die Zustimmung der römischen Behörden"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "Womit vergleicht Paulus sich selbst in 2. Korinther 4,7?",
+        "options": [
+          "Ein starker Turm",
+          "Ein zerbrechliches Tongefäß",
+          "Ein kostbarer Edelstein",
+          "Ein römischer Soldat"
+        ],
+        "correct": 1
+      },
+      {
+        "src": "les",
+        "q": "Wie oft kommt laut dem Text das Wort \"Trost\"/\"trösten\" in 2. Korinther 7 vor?",
+        "options": [
+          "Dreimal",
+          "Fünfmal",
+          "Siebenmal",
+          "Zehnmal"
+        ],
+        "correct": 2
+      },
+      {
+        "src": "les",
+        "q": "Was war laut dem Merktext dieser Woche (2. Korinther 8,9) die Folge davon, dass Christus \"arm wurde um unsretwillen\"?",
+        "options": [
+          "Damit wir durch seine Armut reich würden",
+          "Damit die Kirche wächst",
+          "Damit die Apostel berühmt werden",
+          "Damit Paulus nach Rom reisen kann"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+}
